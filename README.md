@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Celecis
 - 👀 I’m interested in Drawing
-- 🌱 I’m currently learning JS + REACT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently looking for a Frontend job
 
 <!---
 Celecis/Celecis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
